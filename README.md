@@ -35,3 +35,12 @@ This analysis was made to obtain the staff that would be retiring from Pewlett-H
     The company will have to make up for 90,398 positions in the next five years as showed in the first bullet point in the results. Many of the which are senior roles which demand a lot of expirience in the industry and company. Therefore the company should start to promote and train their new seniors for these important roles.
   - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
     
+    Here a quick query was made to see which department would have the most retirements in the following years.
+    
+    ![image](https://user-images.githubusercontent.com/89402038/139695900-fb3bca53-1203-4dfe-bd88-1f0fff49f527.png)
+    
+    And if we group by departments the candidates for the mentorship program we obtain the following:
+    
+    ![image](https://user-images.githubusercontent.com/89402038/139696819-8f094a0a-68f4-4340-9e51-4f5ccd3052a9.png)
+    
+    As the tables show there is not enough people to be able to mentor the new generation inside the company. Therefore, I recommend to encourage the retiring people to take part in this mentorship programs as part of their retirement plan. Otherwise, the new generation will not understand fully how the company works.
